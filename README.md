@@ -141,20 +141,24 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
+![](out.png)
+![](tran.png)
 
 
 ### ii) Image Scaling
 ![](out.png)
-![](tran.png)
+![](scaled.png)
 
 ### iii)Image shearing
 ![](out.png)
 ![](shearedx.png)
+![](shearedy.png)
 
 ### iv)Image Reflection
 ![](out.png)
-![](shearedx.png)
-![](shearedy.png)
+![](refx.png)
+![](refy.png)
+
 
 
 
